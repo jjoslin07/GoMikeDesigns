@@ -1,5 +1,5 @@
 # Project-4
- OpenClassrooms Project 4 Go Mike Designs
+# OpenClassrooms Project 4 Go Mike Designs
 https://jjoslin07.github.io/Project-4/
 
 ## Desktop View Before Optimization Home Page (Lighthouse)
