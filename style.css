@@ -544,6 +544,7 @@ a[data-lightbox]:hover::before {
 	font-size: 32px;
 	width: 50px;
 	height: 50px;
+	line-height: 50px;
 	margin-left: -25px;
 	border-radius: 50%;
 	background: rgba(0, 0, 0, 0.6);
@@ -707,7 +708,8 @@ p {
 }
 
 h2 {
-	font-size: 22px;
+	font-weight: 500;
+	font-size: 32px;
 	line-height: 1.4em;
 }
 
@@ -783,11 +785,12 @@ h4 {
 }
 
 .tc-white {
-	color: #364577 !important;
+	line-height: 1.4em;
+	color: #ffffff !important;
 }
 
 .btn-atomic-tangerine {
-	background: #f3976c;
+	background: #f8631d;
 	color: #ffffff !important;
 }
 
