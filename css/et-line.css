@@ -120,15 +120,12 @@
 	-moz-osx-font-smoothing: grayscale;
 	display: inline-block;
 }
-
 .et-icon-browser:before {
 	content: "\e00c";
 }
-
 .et-icon-presentation:before {
 	content: "\e00e";
 }
-
 .et-icon-edit:before {
 	content: "\e01c";
 }
