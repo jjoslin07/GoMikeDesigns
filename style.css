@@ -692,7 +692,12 @@ p {
 	font-size: 20px;
 	font-family: "Open Sans";
 }
-
+.large-h1 {
+	font-size: 45px !important;
+}
+.contact-header {
+	font-size: 16px !important;
+}
 .cta-hero {
 	margin-top: 22px;
 	color: #ffffff !important;
