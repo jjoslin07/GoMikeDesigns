@@ -653,8 +653,15 @@ label,
 a {
 	filter: contrast(1);
 	font-family: "helvetica";
-	font-weight: 400;
-	color: #000000;
+	font-weight: 400 !important;
+	color: #000000 !important;
+}
+.bold-link {
+	color: black !important;
+	text-decoration: none !important;
+}
+.social-text {
+	color: white !important;
 }
 
 .container {
@@ -805,7 +812,7 @@ h4 {
 .btn-atomic-tangerine {
 	background: #f8631d;
 	color: #ffffff !important;
-	filter: contrast(1);
+	filter: contrast(1) !important;
 }
 
 .btn-atomic-tangerine:hover {
