@@ -456,8 +456,8 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-	color: #fff;
-	background: rgba(0, 0, 0, 0.3);
+	color: #000;
+	background:#ddd);
 }
 
 button {
@@ -517,7 +517,7 @@ button {
 	position: fixed;
 	bottom: 20px;
 	right: 20px;
-	opacity: 0;
+	opacity: 1;
 	z-index: 500;
 	transition: all 0.3s ease-in-out;
 }
@@ -651,7 +651,6 @@ p,
 label,
 .btn,
 a {
-	filter: contrast(1);
 	font-family: "helvetica";
 	font-weight: 400 !important;
 	color: #000000 !important;
