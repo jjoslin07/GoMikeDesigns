@@ -1,5 +1,6 @@
 # GoMike Designs
 ## Project 4 OpenClassrooms ➡ [Optimize an Existing Website](https://jjoslin07.github.io/Project-4/)
+#### Screenshots ➡ [Click Here](#screenshots)
 #### Google Lighthouse ➡ [Click Here](#lighthouse)
 
 Your friend Mike is a freelance web designer who lives in Atlanta. Many local shops have outdated websites, so he approached a few and landed his first clients. But now he would like potential customers to find him when they Google for local freelance web designers to hire. 
@@ -73,15 +74,26 @@ The assessor will challenge your decisions, so be prepared to defend your work. 
 
 ⚒ Optimize the size and speed of a website
 
+<div id="screenshots" align="center">
+  <h3>Home Page Desktop View</h3>
+  <img src="https://user-images.githubusercontent.com/73438491/124798363-1cbfdb00-df08-11eb-91f2-645aa97b1d99.png" alt="Home page desktop view screenshot" height="300px" />
+  <h3>Contact Page Desktop View</h3>
+  <img src="https://user-images.githubusercontent.com/73438491/124798379-221d2580-df08-11eb-8762-a106acb477af.png" alt="Contact page desktop view screenshot" height="300px" />
+  <h3>Home Page Mobile View</h3>
+  <img src="https://user-images.githubusercontent.com/73438491/124798396-26e1d980-df08-11eb-92a1-3516e1cd1f7c.png" alt="Home page mobile view screenshot" height="300px" />
+  <h3>Contact Page Mobile View</h3>
+  <img src="https://user-images.githubusercontent.com/73438491/124798438-306b4180-df08-11eb-8529-97ce1d5f1a02.png" alt="Contact page mobile view screenshot" height="300px" />
+</div>
+
 <div id="lighthouse" align="center">
   <h2>Before Optimitazion</h2>
     <h3>Home Page</h3>
-      <img src="https://user-images.githubusercontent.com/73438491/114802436-8e95e780-9d52-11eb-8564-ecbb0c162434.JPG" width="400px" height="200px" />
+      <img src="https://user-images.githubusercontent.com/73438491/114802436-8e95e780-9d52-11eb-8564-ecbb0c162434.JPG" height="200px" />
     <h3>Contact Page</h3>
-      <img src="https://user-images.githubusercontent.com/73438491/114802437-8f2e7e00-9d52-11eb-920b-12650a488e20.JPG" width="400px" height="200px" />
+      <img src="https://user-images.githubusercontent.com/73438491/114802437-8f2e7e00-9d52-11eb-920b-12650a488e20.JPG" height="200px" />
   <h2>After Optimization</h2>
     <h3>Home Page</h3>
-      <img src="https://user-images.githubusercontent.com/73438491/114802679-f9dfb980-9d52-11eb-93fb-0892556a5e3d.JPG" width="400px" height="200px" />
+      <img src="https://user-images.githubusercontent.com/73438491/114802679-f9dfb980-9d52-11eb-93fb-0892556a5e3d.JPG" height="200px" />
     <h3>Contact Page</h3>
-  <img src="https://user-images.githubusercontent.com/73438491/114802676-f9472300-9d52-11eb-8166-f49e7c03ad06.JPG" width="400px" height="200px" />                           
+  <img src="https://user-images.githubusercontent.com/73438491/114802676-f9472300-9d52-11eb-8166-f49e7c03ad06.JPG" height="200px" />                           
 </div>
