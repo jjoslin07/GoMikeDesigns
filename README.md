@@ -1,5 +1,6 @@
 # GoMike Designs
 ## Project 4 OpenClassrooms ➡ [Optimize an Existing Website](https://jjoslin07.github.io/Project-4/)
+#### Google Lighthouse ➡ [Click Here](#lighthouse)
 
 Your friend Mike is a freelance web designer who lives in Atlanta. Many local shops have outdated websites, so he approached a few and landed his first clients. But now he would like potential customers to find him when they Google for local freelance web designers to hire. 
 
@@ -72,7 +73,7 @@ The assessor will challenge your decisions, so be prepared to defend your work. 
 
 ⚒ Optimize the size and speed of a website
 
-<div align="center">
+<div id="lighthouse" align="center">
   <h2>Before Optimitazion</h2>
     <h3>Home Page</h3>
       <img src="https://user-images.githubusercontent.com/73438491/114802436-8e95e780-9d52-11eb-8564-ecbb0c162434.JPG" width="400px" height="200px" />
