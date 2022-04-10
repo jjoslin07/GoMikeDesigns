@@ -1,5 +1,5 @@
 # GoMike Designs
-## Project 4 OpenClassrooms ➡ [Optimize an Existing Website](https://jjoslin07.github.io/GoMikeDesigns/)
+## Project 4 OpenClassrooms ➡ [Live Demo](https://jjoslin07.github.io/GoMikeDesigns/)
 #### Screenshots ➡ [Click Here](#screenshots)
 #### Google Lighthouse ➡ [Click Here](#lighthouse)
 
